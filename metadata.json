@@ -1,0 +1,8 @@
+{
+  "name": "Cổng Quản Trị Học Tập THCS Tăng Bạt Hổ",
+  "description": "Hệ thống quản lý học tập trực quan dành cho học sinh và giáo viên Trường THCS Tăng Bạt Hổ. Phụ trách: Thầy Hà Văn Toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
